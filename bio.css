@@ -1,0 +1,70 @@
+body {
+	margin:0;
+	font-family: 'Questrial', sans-serif;
+	color:#333;
+}
+header {
+	padding:10px 30px;
+	width:100%;
+	background-color:#719a2d;
+	color:white;
+}
+nav {
+	width: 100%;
+	background: #000;
+	margin: 0;
+}
+
+nav ul {
+
+	list-style-type: none;
+  }  
+
+nav li a, a:visited{
+	float: left;
+    display: inline;
+    padding: 8px 0 8px 25px;
+    text-decoration: none;
+	color: #666;
+	font-size:1.3em;
+}
+nav li a:hover {
+	color: #719a2d;
+}
+
+h1 {
+	font-family: 'Grand Hotel', cursive;
+	font-size:3em;
+}
+
+h2 {
+	font-family: 'Cabin', sans-serif;
+	color:#009eec;
+}
+
+article {
+	padding:10px 20px;
+}
+
+section {
+	padding:10px;
+}
+
+footer {
+	padding:10px 20px;
+	width:100%;
+	background-color:#719a2d;
+	color:white;
+	text-align:center;
+}
+
+.iconFacebook {
+	float:left;
+}
+
+.phone a {
+	color:#333;
+}
+.phone a:hover {
+	color:#719a2d;
+}
